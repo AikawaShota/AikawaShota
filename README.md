@@ -1,7 +1,11 @@
-# Hi 👋, I'm AikawaShota.
+# Hi <img height="32px" alt="hello" src="./img/hello.gif">, I'm AikawaShota.
 
 I am a high school student who wants to become a web engineer.
 I am developing tools and web apps for developers on my own while attending a technical school.
+
+- 📒I write a [blog](https://mesekit.com) related to IT technology in Japanese.
+- 📪How to reach me: [@aikawa_shota](https://twitter.com/aikawa_shota) on X.
+- 💖My hobbies: Mahjong, Shogi and PC games!
 
 ## Languages and Tools
 ### Languages
