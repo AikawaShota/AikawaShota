@@ -47,8 +47,8 @@ I am developing tools and web apps for developers on my own while attending a te
 </p>
 
 <p align="left">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikawaShota&theme=synthwave&show_icons=true">
-    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AikawaShota&theme=synthwave&show_icons=true">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikawaShota&theme=github_dark&show_icons=true">
+    <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=AikawaShota&theme=github_dark&show_icons=true">
 </p>
 
-<img alt="Trophys" height="150px" src="https://github-profile-trophy.vercel.app/?username=AikawaShota&theme=radical&column=8">
+<img alt="Trophys" height="300px" src="https://github-profile-trophy.vercel.app/?username=AikawaShota&theme=darkhub&column=4">
