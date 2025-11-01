@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Profile icon was created using AI, powered by Gemini, based on the image "[File:Pygoscelis papua.jpg](https://commons.wikimedia.org/wiki/File:Pygoscelis_papua.jpg)" by Stan Shebs. The original work is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), and this derivative icon maintains the same licensing conditions.
+
 <!--
 **AikawaShota/AikawaShota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
